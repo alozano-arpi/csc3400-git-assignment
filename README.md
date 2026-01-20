@@ -1,4 +1,4 @@
-# My Software Engineering Project 
+# Basic Calculator Project
 
 ## Angelina Lozano Arpi 
 ## 1298341 
