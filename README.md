@@ -7,6 +7,14 @@
 ## Description 
 This repository will contain a basic calculator with arithmetic functions.
 
+## Project Status 
+- ✅ Basic arithmetic operations implemented.
+- ✅ Advanced operations (power, square root).
+- ✅ Error handling for test cases.
+- ✅ Full documentation 
+
+**Current version: v1.0.0 (January 20, 2026)**
+
 ## Installation Instructions 
 1. Clone the repository 
     ```sh
@@ -50,6 +58,4 @@ Second number: 4
 - Error handling for incorrect operations
 - Command-line interface 
 - Multiple test cases 
-##
-
 
