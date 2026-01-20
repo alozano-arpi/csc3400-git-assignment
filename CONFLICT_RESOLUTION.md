@@ -13,3 +13,4 @@
 
 ## Screenshot
 **Image of terminal showing merge conflict and use of vimdiff**
+<img width="2688" height="1180" alt="Screenshot 2026-01-19 224328" src="https://github.com/user-attachments/assets/5ac84e4a-71d1-4410-ab28-41ca0d4db1d7" />
