@@ -1,4 +1,5 @@
-# Calculator Project 
+# Basic Python Calculator Project 
+**A simple command-line calculator in Python**
 
 ## Angelina Lozano Arpi 
 ## 1298341 
