@@ -25,5 +25,5 @@ def power(n1, n2):
 # square root
 def square(n1, n2):
     if n1 < 0:
-        return "Cannot take square root of negative number"
+        return "Cannot take square root of negative number in real number system"
     return math.sqrt(n1)
