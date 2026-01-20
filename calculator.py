@@ -15,7 +15,7 @@ def multiply(n1, n2):
 # division
 def divide(n1, n2):
     if n2 == 0:
-        return "Cannot divide by zero"
+        return "ERROR: Cannot divide by zero"
     return n1 / n2
 
 # power
